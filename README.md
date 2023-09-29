@@ -1,5 +1,6 @@
 # BrewRuin
 An open-sourced discord server nuking utility- cause i'm tired of skids
+**THE ACTUAL PYTHON FROM https://python.org IS REQUIRED.**
 
 ![Python](https://img.shields.io/badge/Language-Python-blue) ![Networking](https://img.shields.io/badge/Expertise-Networking-green)
 
